@@ -11,9 +11,9 @@
 
 - 🤝 I’m looking for help with **Always open to learning and improving my work, so let’s connect!**
 
-- 👨‍💻 All of my projects are available at [camilofetecua.vercel.app](camilofetecua.vercel.app)
+- 👨‍💻 All of my projects are available at [camilofetecua.app](camilofetecua.vercel.app)
 
-- 📝 I regularly write articles on [https://medium.com/@camilofetecua2011](https://medium.com/@camilofetecua2011)
+- 📝 I regularly write articles on [medium](https://medium.com/@camilofetecua2011)
 
 - 💬 Ask me about **Front-end frameworks like React and Vue, or creating engaging animations with GSAP.**
 
